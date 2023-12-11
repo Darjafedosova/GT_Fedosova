@@ -2,15 +2,15 @@
 а также их соответствие по CRUD.
 
 1) Загрузка видео - Create
-2) Коментирование видео - Create, Read , Update
-3) Лайк/Дизлайк видео - Create, Read , Update
-4) Создание канала - Create, Read , Update , Delete
-5) Подписка на канал - Create, Read , Update , Delete
-6) Создание аккаунта - Create, Read , Update , Delete
+2) Коментирование видео - Create
+3) Лайк/Дизлайк видео - Create
+4) Создание канала - Create
+5) Подписка на канал - Create
+6) Создание аккаунта - Create
 7) Просморт видео - Read
-8) Коменнтирование видео - Create, Read , Update , ?Delete?
+8) Удаление аккаунта Delete
 9) Рекомендации - Read
-10)Уведомдения - Read ,Update
+10)Уведомдения - Read
 
 
 1. Вывести название и стоимость товаров от 20 до 150 EUR
